@@ -3,9 +3,9 @@ A useful tool, which downloads and setups every MCP 1.7.x to 1.12.x
 
 Latest release: v1.0.0 | "The Birth"
 
-You can download it here on github under the tab releases
+You can download it [here].
 
-[Supported Versions]
+Supported Versions
 
 1.12.2 ❌
 1.12.1 ❌
