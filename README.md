@@ -44,4 +44,4 @@ A useful tool, which downloads and setups every MCP 1.7.x to 1.12.x
 - 1.7.4 ❌
 - 1.7.3 ❌
 - 1.7.2 ❌
-**But most of them will be supported over time.**
+- **But most of them will be supported over time.**
