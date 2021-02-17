@@ -2,7 +2,7 @@
 A useful tool, which downloads and setups every MCP 1.7.x to 1.12.x
 
 Latest release: v1.0.0 | "The Birth"
-You can download it [here]
+You can download it [here](https://github.com/TomJuri/MCP-Generator/releases/download/v1.0.0/MCP-Generator-1.0.0.bat)
 
 Supported Versions
 
