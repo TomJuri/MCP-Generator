@@ -9,7 +9,7 @@ A useful tool, which downloads and setups every MCP 1.7.x to 1.12.x
 - Step 2: Run the .BAT file. If it says something like "Windows protected your PC" click "See more" and than "Still execute"
 - Step 3: Follow the .BAT file it will talk to you! 😁
 - Step 4: You are done!
-- 
+
 ## Important information
 - The .BAT file will only work on Windows 7 / 10.
 - It's not a Virus. I mean why would you trust me? I don't know either... But it's not a Virus.
