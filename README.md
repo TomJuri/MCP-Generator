@@ -1,11 +1,11 @@
 # MCP-Generator
 A useful tool, which downloads and setups every MCP 1.7.x to 1.12.x
 
-**Latest release: v1.0.0 | "The Birth"**
-**You can download it** [**here**](https://github.com/TomJuri/MCP-Generator/releases/download/v1.0.0/MCP-Generator-1.0.0.bat)
+**Latest release: v1.1.0 | "1.12.0 and Bugs"**
+**You can download it** [**here**](https://github.com/TomJuri/MCP-Generator/releases/download/v1.1.0/MCP-Generator-1.1.0.bat)
 
 ## Setup
-- Step 1: Download the latest version [**here**](https://github.com/TomJuri/MCP-Generator/releases/download/v1.0.0/MCP-Generator-1.0.0.bat).
+- Step 1: Download the latest version [**here**](https://github.com/TomJuri/MCP-Generator/releases/download/v1.1.0/MCP-Generator-1.1.0.bat).
 - Step 2: Run the .BAT file. If it says something like "Windows protected your PC" click "See more" and than "Still execute"
 - Step 3: Follow the .BAT file it will talk to you! 😁
 - Step 4: You are done!
@@ -18,7 +18,7 @@ A useful tool, which downloads and setups every MCP 1.7.x to 1.12.x
 
 - 1.12.2 ❌
 - 1.12.1 ❌
-- 1.12.0 ❌
+- 1.12.0 ✔
 - 1.11.2 ❌
 - 1.11.1 ❌
 - 1.11.0 ❌
